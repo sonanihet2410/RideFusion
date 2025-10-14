@@ -289,12 +289,4 @@ RideFusion/
 
 ---
 
-## 📞 Contact & Support
-For questions, issues, or contributions:
-- **Repository**: [RideFusion on GitHub](https://github.com/yagnik1505/RideFusion)
-- **Issues**: Create an issue on GitHub for bug reports
-- **Contributions**: Pull requests are welcome
-
----
-
 **Built with ❤️ using ASP.NET Core 8 and modern web technologies**
