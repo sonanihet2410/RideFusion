@@ -288,5 +288,10 @@ RideFusion/
 - **Push Notifications**: Booking updates and reminders
 
 ---
+## 👥 Team
 
+- **Het Sonani (CE148)** – Authentication, Security & User Management
+- **Tilak Moradiya (CE117)** – Donation Management & Backend Logic
+- **Yagnik Pansheriya (CE041)** – Frontend Development & NGO Matching
+  
 **Built with ❤️ using ASP.NET Core 8 and modern web technologies**
